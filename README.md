@@ -15,4 +15,4 @@ On any webserver.
 
 ## Copyright
 
-Git Demo.
+Git Demo. Training
