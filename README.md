@@ -19,4 +19,4 @@ Please fork this repository
 
 ## Copyright
 
-Git Demo. Training
+Git Demo. Training All rights reserved
